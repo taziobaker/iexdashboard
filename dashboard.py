@@ -4,6 +4,5 @@ st.title("This is the title")
 
 st.header("This is a header")
 
-st.subheader("This is a subheader")
-
+st.subheader("Subheader")
 st.write("This is regular text.")
