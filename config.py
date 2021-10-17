@@ -1,6 +1,4 @@
-streamlit
-requests
-redis
+IEX_TOKEN = 'sk_your_iex_token'
 
 #TWITTER_CONSUMER_KEY = ''
 #TWITTER_CONSUMER_SECRET = ''
