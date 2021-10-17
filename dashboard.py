@@ -29,4 +29,4 @@ st.sidebar.write("Write this to the sidebar")
 
 df = pd.DataFrame(np.random.randn(50, 20), columns=('col %d' % i for i in range(20)))
 
-st.DataFrame(df)
+st.dataframe(df)
