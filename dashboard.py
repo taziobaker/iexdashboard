@@ -1,4 +1,5 @@
 import streamlit as st
+import pandas as pd
 
 st.title("This is the title")
 
@@ -23,3 +24,8 @@ st.write(some_dictionary)
 st.write(some_list)
 
 st.sidebar.write("Write this to the sidebar")
+
+
+df = pd.DataFrame(np.random.randn(50, 20), columns=('col %d' % i for i in range(20)))
+
+st.DataFrame(df)
