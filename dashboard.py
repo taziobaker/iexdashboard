@@ -13,7 +13,13 @@ st.write("This is regular text.")
 ## subheader
 """
 
-{
+some_dictionary = {
   "key": "value",
   "key2": "value2"
 }
+
+some_list = [1,2,3]
+st.write(some_dictionary)
+st.write(some_list)
+
+st.sidebar.write("Write this to the sidebar")
