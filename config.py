@@ -1,4 +1,4 @@
-IEX_TOKEN = 'sk_your_iex_token'
+IEX_TOKEN = 'sk_05f62d0b97b84cfbb15650bc980058b0'
 
 #TWITTER_CONSUMER_KEY = ''
 #TWITTER_CONSUMER_SECRET = ''
